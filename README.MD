@@ -21,5 +21,6 @@ Snapshots do estado do projeto\
 -git log #lista ultimos commits\
 -git restore  File #Retornar modificacoes no arquivo\
 -git restore --staged File #Retornar um arquivo do staged antes do commit\
--git push
--git pull
+-git push\
+-git pull\
+-git fetch
