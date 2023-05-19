@@ -1,6 +1,6 @@
 # Curso Digital: Git
--Registro de mudanças em arquivos, que possibilita recuperar ou acesso a versões anteriores.
--Desenvolvimneto de código em colaboração com outros integrantes.\
+-Registro de mudanças em arquivos, que possibilita recuperar ou acesso a versões anteriores.\
+-Desenvolvimneto de código em colaboração com outros integrantes.
 ## o que é git?
 Snapshots do estado do projeto\
 -git cmd\
