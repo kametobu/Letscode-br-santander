@@ -22,3 +22,4 @@ Snapshots do estado do projeto\
 -git restore  File #Retornar modificacoes no arquivo\
 -git restore --staged File #Retornar um arquivo do staged antes do commit\
 -git push
+-git pull
