@@ -18,3 +18,5 @@ Snapshots do estado do projeto
 -git diff # o que foi modificado nos modificados
 -git diff --staged #arquivos modificados no staged
 -git commit -m "add new title"
+
+erro
