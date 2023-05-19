@@ -18,5 +18,6 @@ Snapshots do estado do projeto
 -git diff # o que foi modificado nos modificados
 -git diff --staged #arquivos modificados no staged
 -git commit -m "add new title"
-
-erro
+-git log #lista ultimos commits
+-git restore  File #Retornar modificacoes no arquivo 
+-git restore --staged File #Retornar um arquivo do staged antes do commit
