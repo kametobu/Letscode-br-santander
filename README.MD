@@ -24,4 +24,6 @@ Snapshots do estado do projeto\
 -git push\
 -git pull\
 -git fetch\
--git diff origin/branch
+-git diff origin/branch\
+-git branch new_name
+-git log --oneline --decorate
